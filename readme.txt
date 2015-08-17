@@ -39,7 +39,14 @@ This is first version no known notices yet
 1. Upload the folder "vertical-client-carousel" to "/wp-content/plugins/"
 2. Activate the plugin through the "Plugins" menu in WordPress
 3. Add new client form WP-admin ->Vertical Client -> Add New Client
-4. Use shortcode [vertical-client-carousel] in editor to show carousel
-5. You can also call shortcode in php template file by  <?php echo do_shortcode('[vertical-client-carousel]');?> 
+4. Use shortcode in editor to show carousel
+`
+[vertical-client-carousel]
+`
+ You can also call shortcode in php template file by 
+ 
+`
+ <?php echo do_shortcode('[vertical-client-carousel]');?> 
+`
 
 
