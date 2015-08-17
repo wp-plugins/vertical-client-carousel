@@ -1,5 +1,5 @@
 === Vertical Client Carousel ===
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=netattingomails@gmail.com&item_name=vertical+client+carousel
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=afroz92@gmail.com&item_name=vertical+client+carousel
 Tags: vertical client carousel, vertical slider, logo slider, Best logo slider, easy logo slider, client logo slider, logo slider wordpress,client slider, Best client slider, easy client slider, client logo slider, client slider wordpress,
 Contributors: NetAttingo Technologies
 Author: NetAttingo Technologies
